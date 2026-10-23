@@ -3,3 +3,6 @@
 
 - name: Sobre mí
   link: /about.html
+
+- name: Blog
+  link: /blog.html
