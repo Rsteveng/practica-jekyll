@@ -1,0 +1,18 @@
+nav {
+  margin-bottom: 20px;
+
+  a {
+    margin-right: 15px;
+    text-decoration: none;
+  }
+
+  .current {
+    color: green;
+    font-weight: bold;
+  }
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
