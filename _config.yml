@@ -22,3 +22,13 @@ description: Sitio web creado para practicar Jekyll, Liquid y Markdown.
 baseurl: ""
 url: ""
 github_username: Rsteveng
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
